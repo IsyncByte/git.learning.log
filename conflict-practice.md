@@ -16,5 +16,6 @@
 
 - Merge conflicts are normal and not scary
 - Rebase rewrites history, so only use it on local branches
+- Git stash is a lifesaver for context switching
 - Interactive rebase is powerful for cleaning up work before sharing
 - Git stash is a lifesaver for context switching
