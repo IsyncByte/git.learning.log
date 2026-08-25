@@ -17,4 +17,4 @@ Closes #(issue number)
 
 - [ ] My changes follow the project's style
 - [ ] I have tested my changes locally
-- [ ] I have updated documentation if needed
+- [ ] I have updated documentation if needed.
